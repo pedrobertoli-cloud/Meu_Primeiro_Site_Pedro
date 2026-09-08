@@ -1,0 +1,21 @@
+*{
+    background-color:blueviolet;
+
+}
+div{
+    text-align: center;
+    font-size: 50px;
+    width: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-style: italic;
+    color: brown;
+}
+.aaaa{
+    font-style: italic;
+    color: blue;
+}
+p{
+    color: aquamarine;
+}
